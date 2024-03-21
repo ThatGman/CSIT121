@@ -1,0 +1,62 @@
+body{
+	background-color: #0e5135;
+	font-family:Monaco,Courier Space, Lucida Console, monospace;
+	color: #d4ce46;
+	background-image:url(images/WFG_Picture.png);
+	padding: 25px
+}
+
+h1{
+	background-color:#0d9263;
+	color: #d4ce46;
+	text-transform: capitalize;
+	font-family:Arial, Verdana, Helvetica, "Comic Sans", sans-serif;
+	text-align:center;
+	margin-left:100px;
+	margin-right:100px;
+}
+
+.tagline{
+	font-style:italic;
+	color:#4aba91;
+	background-color:#0d9263;
+	font-weight:1000px;
+}
+
+h3{
+	background-color:#0d9263;
+	margin-left:auto;
+	margin-right:1500px;
+}
+
+ul{
+	background-color:#0e5135;
+}
+
+ol{
+	background-color:#0e5135;
+}
+
+li{
+	color:#4aba91;
+	font-weight:600;
+	font-family:"Times New Roman", serif;
+}
+
+p{
+	color:#4aba91;
+	background-color:#0e5135;
+	font-weight:600;
+	font-family:"Times New Roman", serif;
+	font-size:20px;
+}
+
+.hecooking{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #494b4b;
+	border-radius: 5px;
+	padding:5px;
+	background-color: #494b4b;
+}
