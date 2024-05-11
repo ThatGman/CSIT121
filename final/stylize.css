@@ -66,6 +66,10 @@ input{
     width: 50%;
 }
 
+.fixpadding{
+    padding: 50px;
+}
+
 @media only screen and (min-width: 768px){
     main{
         display: grid;
@@ -73,3 +77,4 @@ input{
         grid-template-rows: 200px auto;
     }
 }
+
